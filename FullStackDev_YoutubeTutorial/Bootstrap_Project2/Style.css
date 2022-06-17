@@ -32,6 +32,44 @@ h5.modal-title {
 }
 
 .modalFormWrapper {
+    padding: 2rem;
+}
+
+.imgCenter {
+    display: block;
+    margin: auto;
+}
+
+.btnCenter {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 30%;
+}
+
+img.footer-img{
+    height: 50px;
+    padding: 5px;
+}
+
+.fa {
+    margin: 10px;
     
 }
 
+.fa-facebook-square {
+    color: #3b5998;
+}
+
+.fa-google-plus-square {
+    color: #c32f10;
+}
+
+.fa-instagram {
+    color: white;
+}
+
+.socialWrapper {
+    margin: auto;
+}
